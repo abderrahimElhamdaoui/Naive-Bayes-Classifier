@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/java-11-openjdk-amd64">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/home/abderrahim/eclipse-workspace/modules/lucene-analysis-common-9.12.0.jar"/>
+	<classpathentry kind="lib" path="/home/abderrahim/eclipse-workspace/modules/lucene-analysis-icu-9.12.0.jar"/>
+	<classpathentry kind="lib" path="/home/abderrahim/eclipse-workspace/modules/lucene-analysis-kuromoji-9.12.0.jar"/>
+	<classpathentry kind="lib" path="/home/abderrahim/eclipse-workspace/modules/lucene-analysis-morfologik-9.12.0.jar"/>
+	<classpathentry kind="lib" path="/home/abderrahim/eclipse-workspace/modules/lucene-analysis-nori-9.12.0.jar"/>
+	<classpathentry kind="lib" path="/home/abderrahim/eclipse-workspace/modules/lucene-analysis-opennlp-9.12.0.jar"/>
+	<classpathentry kind="lib" path="/home/abderrahim/eclipse-workspace/modules/lucene-analysis-phonetic-9.12.0.jar"/>
+	<classpathentry kind="lib" path="/home/abderrahim/eclipse-workspace/modules/lucene-analysis-smartcn-9.12.0.jar"/>
+	<classpathentry kind="lib" path="/home/abderrahim/eclipse-workspace/modules/lucene-analysis-stempel-9.12.0.jar"/>
+	<classpathentry kind="lib" path="/home/abderrahim/eclipse-workspace/modules/lucene-backward-codecs-9.12.0.jar"/>
+	<classpathentry kind="lib" path="/home/abderrahim/eclipse-workspace/modules/lucene-benchmark-9.12.0.jar"/>
+	<classpathentry kind="lib" path="/home/abderrahim/eclipse-workspace/modules/lucene-classification-9.12.0.jar"/>
+	<classpathentry kind="lib" path="/home/abderrahim/eclipse-workspace/modules/lucene-codecs-9.12.0.jar"/>
+	<classpathentry kind="lib" path="/home/abderrahim/eclipse-workspace/modules/lucene-core-9.12.0.jar"/>
+	<classpathentry kind="lib" path="/home/abderrahim/eclipse-workspace/modules/lucene-demo-9.12.0.jar"/>
+	<classpathentry kind="lib" path="/home/abderrahim/eclipse-workspace/modules/lucene-expressions-9.12.0.jar"/>
+	<classpathentry kind="lib" path="/home/abderrahim/eclipse-workspace/modules/lucene-facet-9.12.0.jar"/>
+	<classpathentry kind="lib" path="/home/abderrahim/eclipse-workspace/modules/lucene-grouping-9.12.0.jar"/>
+	<classpathentry kind="lib" path="/home/abderrahim/eclipse-workspace/modules/lucene-highlighter-9.12.0.jar"/>
+	<classpathentry kind="lib" path="/home/abderrahim/eclipse-workspace/modules/lucene-join-9.12.0.jar"/>
+	<classpathentry kind="lib" path="/home/abderrahim/eclipse-workspace/modules/lucene-luke-9.12.0.jar"/>
+	<classpathentry kind="lib" path="/home/abderrahim/eclipse-workspace/modules/lucene-memory-9.12.0.jar"/>
+	<classpathentry kind="lib" path="/home/abderrahim/eclipse-workspace/modules/lucene-misc-9.12.0.jar"/>
+	<classpathentry kind="lib" path="/home/abderrahim/eclipse-workspace/modules/lucene-monitor-9.12.0.jar"/>
+	<classpathentry kind="lib" path="/home/abderrahim/eclipse-workspace/modules/lucene-queries-9.12.0.jar"/>
+	<classpathentry kind="lib" path="/home/abderrahim/eclipse-workspace/modules/lucene-queryparser-9.12.0.jar"/>
+	<classpathentry kind="lib" path="/home/abderrahim/eclipse-workspace/modules/lucene-replicator-9.12.0.jar"/>
+	<classpathentry kind="lib" path="/home/abderrahim/eclipse-workspace/modules/lucene-sandbox-9.12.0.jar"/>
+	<classpathentry kind="lib" path="/home/abderrahim/eclipse-workspace/modules/lucene-spatial3d-9.12.0.jar"/>
+	<classpathentry kind="lib" path="/home/abderrahim/eclipse-workspace/modules/lucene-spatial-extras-9.12.0.jar"/>
+	<classpathentry kind="lib" path="/home/abderrahim/eclipse-workspace/modules/lucene-suggest-9.12.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
