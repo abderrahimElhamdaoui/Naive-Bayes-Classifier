@@ -6,11 +6,12 @@ L'algorithme de Naïve Bayes repose sur le théorème de Bayes et l'hypothèse d
 
 ## Fonctionnalités principales
 
-### 1. **Prétraitement des données** :
-   - **Suppression des mots vides (stop words)** : Les mots communs comme "et", "le", "de", "à", etc. sont retirés pour améliorer l'efficacité du modèle.
-   - **Stemming** : Réduction des mots à leur racine à l'aide de l'algorithme **Porter Stemmer** ou autre méthode de stemming.
-   - **Transformation en minuscules** : Conversion de tous les mots en minuscules pour éviter la duplication des mots due à la casse.
-   - **Tokenisation** : Découpage du texte en mots ou tokens.
+### 1. - **Entraînement d'un modèle Naive Bayes** avec des textes provenant de répertoires.
+- **Prétraitement de texte**, y compris la suppression des mots vides (stop words) et le stemming des mots (réduction à leur racine).
+- **Classification de documents texte** en catégories prédéfinies.
+- **Sauvegarde et chargement du modèle Naive Bayes** pour réutilisation ultérieure.
+- **Classification automatique de fichiers texte** et déplacement vers des répertoires correspondant à leur catégorie prédite.
+
 
 ### 2. **Entraînement du modèle** :
    - Le modèle Naïve Bayes est entraîné sur un jeu de données où chaque document appartient à une catégorie.
@@ -27,8 +28,4 @@ L'algorithme de Naïve Bayes repose sur le théorème de Bayes et l'hypothèse d
 
 ### Prérequis :
 1. **Java 8 ou supérieur** doit être installé.
-2. Téléchargez ou clonez ce dépôt sur votre machine locale.
-
-### Clonez le dépôt :
-```bash
-git clone https://github.com/username/NaiveBayesClassifier.git
+2. Dépendances **Apache Lucene** pour le stemming des mots.
